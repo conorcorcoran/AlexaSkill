@@ -1,4 +1,4 @@
 # AlexaSkill
 Custom built Amazon Skill to playback an MP3
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://images-na.ssl-images-amazon.com/images/I/61ikAJnULvL._SL1000_.jpg "Amazon Echo Dot")
