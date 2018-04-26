@@ -13,7 +13,7 @@ var handlers = {
     },
 
     'LaunchIntent': function() {
-        this.emit(':tell', "Here is the latest news from Beat one o two one o three <audio src='https://s3.amazonaws.com/news-brief/test_clip.mp3'/>"); //https://s3.amazonaws.com/news-brief/news_test_48k.mp3
+        this.emit(':tell', "Here is the latest news from Beat one o two one o three <audio src='https://s3.amazonaws.com/news-brief/beat-news.mp3'/>");
         
     }
 };
